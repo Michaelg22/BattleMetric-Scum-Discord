@@ -4,6 +4,8 @@
 
 This assumes you already have a working Go environment, if not please see [this page](https://golang.org/doc/install) first.
 
+You can clone this project to run it.
+
 To run the program you will need to add the following keys 
 ![img.png](img.png)
 
