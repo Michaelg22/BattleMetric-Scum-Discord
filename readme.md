@@ -6,10 +6,14 @@ This assumes you already have a working Go environment, if not please see [this 
 
 To run the program you will need to add the following keys 
 ![img.png](img.png)
+
 > serverID            = "The letter and digit at the end of the url of the server in BattleMetric"
 ![img_1.png](img_1.png)
+
 > battleMetricsApiKey = "Create a battle metric account and visit [this url](https://www.battlemetrics.com/developers/token) to get the key. you will need to select the permissions and create a token"
+
 > discordBotToken     = "Go to the discord developer portal here, and create a new app. in the app go to bot and reset token and copy token."
+
 > discordChannelID    = "To get the discordChannel ID is simple you need to go in developer mode and write click on the channel you want the id from. to learn how to go into developer mode learn [here](https://www.partitionwizard.com/partitionmagic/discord-developer-mode.html)"
 
 Once you have save all the following keys. you will need to add your bot to your channel by going to 0auth2 and URL Generator.
